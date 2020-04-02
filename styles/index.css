@@ -226,7 +226,7 @@ h2 {
 #bottom_intro {
 	width: 95%;
 	margin: 0 auto;
-	font-size: 1rem;
+	font-size: 1.1rem;
 	line-height: 1.5rem;
 	color: #808080;
 }
@@ -297,7 +297,7 @@ h3 {
 #local {
 	margin: 0 auto;
 	width: 95%;
-	font-size: 1rem;
+	font-size: 1.1rem;
 	line-height: 1.5rem;
 	color: #808080;
 }
@@ -310,13 +310,12 @@ h3 {
 	justify-content: center;
 	align-items: center;
 }
-
 #six {
 	background: #fff;
 	padding-top: 25px;
 	padding-bottom: 25px;
 }
-h5 {
+h4 {
 	font-size: 2rem;
 	color: #484848;
 	width: 95%;
@@ -327,7 +326,7 @@ h5 {
 
 }
 #six p {
-	font-size: 1rem;
+	font-size: 1.1rem;
 	color: #808080;
 	width: 90%;
 	margin: 10px auto;
