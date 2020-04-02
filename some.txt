@@ -1,0 +1,46 @@
+<h4>WHAT PEOPLE ARE SAYING:</h4>
+            <div id="reviews_row1">
+               <p class="reviews">"I would completely recommend Black Sheep and their team to anyone with Catering needs!"</p>
+               <p class="source">Lucy B. | Thumbtack.com</p>
+            </div>
+            <div id="reviews_row2">
+               <p class="reviews">"Black Sheep Catering made my Wedding the best day of my life. Their team made it stress-free
+                  and beautiful! I can't say enough about how helpful the whole planning process was and turned out just as we wanted it to."
+               </p>
+               <p class="source">Jane M. | Weddings.com</p>
+            </div>
+            <div id="reviews_row3">
+               <p class="reviews">"We had a resident appreciation pool party, they were so responsive in getting our order in on such short
+                  notice. The brisket was to die for! I will definitely be using them in all my resident and personal events! Thank you Ty and Rachel.
+               </p>
+               <p class="source">Tonya N. | Thumbtack.com</p>
+            </div>
+
+
+
+
+h4 {
+  text-align: center;
+  font-size: 2rem;
+	text-align: center;
+	color: #fff;
+	margin: 0;
+	padding-bottom: 15px;
+	font-family: 'Oswald', sans-serif;
+	letter-spacing: 4px;
+	padding-bottom: 25px;
+}
+.reviews {
+	font-size: 1rem;
+	line-height: 2rem;
+	margin: 0 auto;
+	width: 95%;
+	color: #fff;
+	text-align: center;
+	font-style: italic;
+}
+.source {
+	margin-top: 5px;
+	color: #daa158;
+	text-align: center;
+}
